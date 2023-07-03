@@ -9,7 +9,7 @@ First, clone the project and run command below to install all required dependenc
 ```bash
 npm i --legacy-peer-deps
 ```
-Before running the development server, get yourself a Grafbase API, Grafbase Url and Grafbase Key, Google Client ID, NextAuth Secret and add:
+Before running the development server, get yourself a Grafbase API Url and Grafbase API Key, Google Client ID, NextAuth Secret and add:
 
 ```bash
 NEXTAUTH_URL=http://localhost:3000
